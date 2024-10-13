@@ -1,0 +1,5 @@
+process,avg_time,elapsed_time,avg_wait_time,burst_time
+P1,0,128,0.33,98
+P2,0,127,128.85,98
+P3,0,127,255.85,98
+P4,0,127,382.85,98
